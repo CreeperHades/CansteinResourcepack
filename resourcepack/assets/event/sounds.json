@@ -1,32 +1,77 @@
 {
+  "a_crandle_in_bethlehem": {
+    "sounds": [
+      "event:sounds/a_crandle_in_bethlemheleme"
+    ]
+  },
   "bell": {
     "sounds": [
-      "event:bell/bell-1"
+      "event:sounds/bell-1"
     ]
   },
   "einstieg": {
     "sounds": [
-      "event:einstieg/einstieg"
+      "event:sounds/einstieg"
     ]
   },
   "oh-du-froehliche": {
     "sounds": [
-      "event:oh-du-froehliche/oh-du-froehliche"
+      "event:sounds/oh-du-froehliche"
     ]
   },
   "praise": {
     "sounds": [
-      "event:praise/praise"
+      "event:sounds/praise"
     ]
   },
   "waymaker": {
     "sounds": [
-      "event:waymaker/waymaker"
+      "event:sounds/waymaker"
     ]
   },
   "zweifel": {
     "sounds": [
-      "event:zweifel/zweifel"
+      "event:sounds/zweifel"
+    ]
+  },
+  "freue_dich_welt": {
+    "sounds": [
+      "event:sounds/freue_dich_welt"
+    ]
+  },
+  "fuerchte_dich_nicht": {
+    "sounds": [
+      "event:sounds/fuerchte_dich_nicht"
+    ]
+  },
+  "immanuel": {
+    "sounds": [
+      "event:sounds/immanuel"
+    ]
+  },
+  "jingle_bell_rock": {
+    "sounds": [
+      "event:sounds/jingle_bell_rock"
+    ]
+  },
+  "joy_to_the_world": {
+    "sounds": [
+      "event:sounds/joy_to_the_worldt"
+    ]
+  },
+  "let_it_snow": {
+    "sounds": [
+      "event:sounds/let_it_snow"
+    ]
+  },
+  "manger_throne": {
+    "sounds": [
+      "event:sounds/manger_throne"
+    ]
+  },
+  "merry_crsitmas_everyone": {
+    "sounds": [
+      "event:sounds/merry_crsitmas_everyone"
     ]
   }
 }
