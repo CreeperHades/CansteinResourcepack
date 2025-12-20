@@ -74,11 +74,6 @@
       "event:songs/merry_crsitmas_everyone"
     ]
   },
-  "angel_23": {
-    "sounds": [
-      "event:w25_angel/angel_23"
-    ]
-  },
   "angel_1": {
     "sounds": [
       "event:w25_angel/angel_1"
@@ -177,16 +172,6 @@
   "angel_20": {
     "sounds": [
       "event:w25_angel/angel_20"
-    ]
-  },
-  "angel_21": {
-    "sounds": [
-      "event:w25_angel/angel_21"
-    ]
-  },
-  "angel_22": {
-    "sounds": [
-      "event:w25_angel/angel_22"
     ]
   }
 }
