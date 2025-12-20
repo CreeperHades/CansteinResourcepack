@@ -1,6 +1,8 @@
 {
-   "pack": {
-      "pack_format": 34,
-      "description": "Canstein Event Resourcepack (v. 2024-0.2)"
-   }
+  "pack": {
+    "description": "Canstein Event Resourcepack (v. 2025-0.2-dev)",
+    "pack_format": 34,
+    "min_format": 34,
+    "max_format": 75
+  }
 }

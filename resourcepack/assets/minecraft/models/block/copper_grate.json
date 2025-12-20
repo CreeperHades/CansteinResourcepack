@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "minecraft:block/godi/al"
+    "all": "minecraft:block/al"
   }
 }
