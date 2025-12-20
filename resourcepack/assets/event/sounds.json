@@ -173,5 +173,20 @@
     "sounds": [
       "event:w25_angel/angel_20"
     ]
+  },
+  "angel_21": {
+    "sounds": [
+      "event:w25_angel/angel_21"
+    ]
+  },
+  "angel_22": {
+    "sounds": [
+      "event:w25_angel/angel_22"
+    ]
+  },
+  "angel_23": {
+    "sounds": [
+      "event:w25_angel/angel_23"
+    ]
   }
 }
